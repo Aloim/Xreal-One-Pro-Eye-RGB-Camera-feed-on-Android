@@ -1,6 +1,6 @@
 # XREAL One Pro — Eye/RGB Camera on Android (No SDK Required)
 
-A lightweight Android app that accesses the **XREAL One Pro** glasses' Eye (RGB) camera directly via USB — **without** the official XREAL Glasses Control app, Nebula app, or Unity SDK.
+A lightweight Android app that accesses the **XREAL One Pro** glasses' Eye (RGB) camera directly via USB — **without** the official XREAL Glasses Control app or Unity SDK.
 
 ## What This Does
 
