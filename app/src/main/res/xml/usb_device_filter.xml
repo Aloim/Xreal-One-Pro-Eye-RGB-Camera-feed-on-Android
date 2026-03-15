@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- XREAL One Pro (Gina) - VID 0x3318 = 13080 -->
+    <usb-device vendor-id="13080" />
+</resources>
